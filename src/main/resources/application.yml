@@ -18,7 +18,7 @@ spring:
     password: qkr96#
   jpa:
     hibernate:
-      ddl-auto: create  #create update
+      ddl-auto: update  #create update
     properties:
       hibernate:
         show_sql: true #sql ??
